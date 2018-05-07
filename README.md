@@ -1,4 +1,4 @@
-﻿pythonista-drafts-recipes
+pythonista-drafts-recipes
 =========================
 
 # The Short Description

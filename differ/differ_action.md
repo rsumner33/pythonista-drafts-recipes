@@ -1,4 +1,4 @@
-﻿differ
+differ
 =========================
 
 # The Drafts Action
